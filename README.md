@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @JonnixCarp
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning developing
-- 💞️ I’m looking to collaborate on developing
-- 📫 How to reach me Discord: Jonnix007#8027
+Hello here you can find the source code for my Discord Bot. This contains, for example, a ticket system. You can download the source code when the bot is ready.
 
-<!---
-JonnixCarp/JonnixCarp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Developed by Jonnix007#8027
